@@ -15,7 +15,7 @@ Maker Media GmbH
 Hier gibt es alles rund um den Nachbau der eigenen Mobi-C:
 
 * Im Ordner _[cad](./cad/)_ liegt das 3D-Modell der Mobi-C als STEP-Datei und Projekt für Autodesk-Fusion 
-* Im Ordner _[schema](./schema/)_ liegt der Schaltplan als KiCAD-Datei
+* Im Ordner _[doc](./doc/)_ liegt unter anderem der [Schaltplan](./doc/schema.png)
 * Im Ordner _[3d](./3d/)_ liegen die 3D-Druckvorlagen als STL-Dateien und gruppiert als 3mf, Details dazu weiter unten im Abschnitt **3D-Drucke**
 * Im Ordner _[src](.src/)_ liegt das AutoHotkey-Skript fürs Einbauen der Pausen in den G-Code und im Zip-Archiv die EXE-Version davon
 
