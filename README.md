@@ -24,8 +24,8 @@ Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 3/24 ab Seite
 # Materialliste und Bezugsquellen
 Vor einer Bestellung sind mit Hilfe der Tabelle im Heft und anhand der gewünschten Arbeitsbereichsgröße der eigenen Mobi-C die nötigen Profillängen **X** und **Y** sowie die Gleitstangenlängen **GX** und **GY** zu ermitteln.
 
-* [2 Aluminiumprofile 40×40×**X** mm, Nut 8, M8-Gewinde an den Stirnseiten anbringen lassen](https://www.dold-mechatronik.de/Aluminiumprofil-40x40L-I-Typ-Nut-8-leicht-176kg-m-Zuschnitt-50-6000mm)
-* [2 Aluminiumprofile 40×40×**Y** mm, Nut 8](https://www.dold-mechatronik.de/Aluminiumprofil-40x40L-I-Typ-Nut-8-leicht-176kg-m-Zuschnitt-50-6000mm)
+* [2 Aluminiumprofile 40×40×**X** mm, Nut 8](https://www.dold-mechatronik.de/Aluminiumprofil-40x40L-I-Typ-Nut-8-leicht-176kg-m-Zuschnitt-50-6000mm)
+* [2 Aluminiumprofile 40×40×**Y** mm, Nut 8, M8-Gewinde an den Stirnseiten anbringen lassen](https://www.dold-mechatronik.de/Aluminiumprofil-40x40L-I-Typ-Nut-8-leicht-176kg-m-Zuschnitt-50-6000mm)
 * [2 Präzisionswellen 8×**GX**, geschliffen und gehärtet](https://www.dold-mechatronik.de/Praezisionswelle-8mm-h6-geschliffen-und-gehaertet-Material-CF53-mit-Bearbeitung)
 * [2 Präzisionswellen 8×**GY**, geschliffen und gehärtet](https://www.dold-mechatronik.de/Praezisionswelle-8mm-h6-geschliffen-und-gehaertet-Material-CF53-mit-Bearbeitung)
 * [Zahnriemen GT2, 6 mm, Länge laut Tabelle im Heft](https://www.dold-mechatronik.de/Zahnriemen-GT2-Breite-6mm-Meterware-Laenge-6-Meter)
